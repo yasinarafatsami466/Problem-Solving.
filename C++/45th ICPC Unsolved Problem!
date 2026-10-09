@@ -1,0 +1,15 @@
+ICPC is the oldest, largest, and most prestigious programming contest in the world. Each year, the ICPC regionals begin at local competitions among classmates to determine who may represent their university.
+
+
+
+This year Bangladesh was the host country for ICPC World Finals 2021. World Finals participants are committed to advancing the art of computer science by using their skills in problem solving to solve complex algorithmic problems. Every competitive programmer has a dream to participate in this contest.
+A problem was unsolved in ICPC World Finals 2021. Even the champion team “ZEROONE” couldn’t solve it. The problem setter has put his trust on you that you can solve this problem. All you have to do is to print the name of the ICPC world Finals 2021 Champion team.
+
+Input
+There is no input for this problem.
+
+Output
+Print the the champion team name.
+
+Notes
+Be careful about the newline(‘\n’) at the end.
