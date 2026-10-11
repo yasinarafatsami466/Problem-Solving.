@@ -1,0 +1,69 @@
+From different countries and different universities, too many teams are coming to Bangladesh to participate in the
+4
+5
+t
+h
+45 
+th
+  Annual ICPC World Finals. The organizer team wanted to provide a suitable contest environment for the participants. So they select a big hall room where they set 
+N
+N rows of PCs and each row has 
+M
+M PCs. One team will use one PC. After completing the seat plan they have some extra seats and want to allow some extra teams.
+
+Though everyone is busy with different types of activities, so for the given configuration of the hall you need to calculate the number of extra teams that can participate in the contest.
+
+Input
+The first line will take two integers 
+N
+N and 
+M
+M, which denote respectively the total row numbers and PC numbers in each row.
+
+The next 
+N
+N line will take the 
+M
+M character 
+“
+1
+”
+“1” or 
+“
+0
+”
+“0” (
+“
+1
+”
+“1” means the seat is booked for a team, and 
+“
+0
+”
+“0”means the seat is empty).
+
+(
+1
+<
+=
+N
+,
+M
+<
+=
+1000
+)
+(1<=N,M<=1000)
+
+Output
+You have to output an integer — the number of extra teams that can participate in the contest.
+
+Example
+InputCopy	OutputCopy
+5 5
+1 1 0 1 1
+1 1 1 1 0
+0 1 1 1 1
+1 1 1 1 1
+0 0 0 1 1
+6
